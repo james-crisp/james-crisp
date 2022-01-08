@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @james-crisp
-- 👀 I’m interested in new devices for creation.
+- 👀 I’m interested in new technological devices that are cool and allow greater creative abilities.
 - 🌱 I’m currently learning how to pull data from a website and publish that information on a new website.
 
 - 📫 How to reach me james.crisp.home@gmail.com
