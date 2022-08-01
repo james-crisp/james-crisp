@@ -2,4 +2,4 @@
 
 - 📫 How to reach me: james.crisp.work@gmail.com
 
-- linkedin.com/in/jamescrispiv
+- https://www.linkedin.com/in/jamescrispiv/
